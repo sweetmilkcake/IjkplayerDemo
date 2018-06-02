@@ -1,8 +1,11 @@
 # IjkplayerDemo
-Just a Ijkplayer Demo app.
+Just a Ijkplayer Demo App.
 
 ## Screenshots
 ![demo1](https://github.com/sweetmilkcake/IjkplayerDemo/blob/master/Screenshots/demo1.gif)
+
+## Download
+https://github.com/sweetmilkcake/IjkplayerDemo/releases
 
 ## Features
 * Friendly Play Interface
