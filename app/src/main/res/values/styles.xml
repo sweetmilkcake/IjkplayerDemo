@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="FullscreenTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="SeekBarStyle">
+        <item name="android:maxHeight">3.0dip</item>
+        <item name="android:max">1000</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@drawable/seekbar_background</item>
+        <item name="android:minHeight">3.0dip</item>
+        <item name="android:thumb">@drawable/seekbar_thumb</item>
+        <item name="android:thumbOffset">10.0dip</item>
+        <item name="android:splitTrack">false</item>
+    </style>
+
+    <style name="SeekBarTextStyle">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/seekbar_text_color</item>
+        <item name="android:paddingTop">0.0dip</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+
+</resources>
